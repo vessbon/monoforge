@@ -1,4 +1,16 @@
 {
   "name": "@repo/typescript-config",
-  "private": true
+  "private": true,
+  "files": [
+    "base.json",
+    "bundler.json",
+    "node.json",
+    "react.json"
+  ],
+  "exports": {
+    "./base": "./base.json",
+    "./bundler": "./bundler.json",
+    "./node": "./node.json",
+    "./react": "./react.json"
+  }
 }
