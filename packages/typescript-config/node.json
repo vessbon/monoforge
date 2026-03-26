@@ -1,9 +1,0 @@
-{
-  "extends": "./base.json",
-  "compilerOptions": {
-    "module": "ESnext",
-    "moduleResolution": "bundler",
-    "verbatimModuleSyntax": false,
-    "noEmit": true
-  }
-}
