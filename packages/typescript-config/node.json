@@ -4,6 +4,6 @@
     "module": "ESnext",
     "moduleResolution": "bundler",
     "verbatimModuleSyntax": false,
-    "noEmit": false
+    "noEmit": true
   }
 }
